@@ -1,4 +1,4 @@
-A single page one column resume intended to maximize content density. 
+A single-page one-column resume intended to maximize content density. 
 
 ### Motivation
 
@@ -7,3 +7,6 @@ I created this as managing a resume with WYSIWYG software tools was hard and cha
 
 ### License
 Format is MIT but all the data is owned by Carl V. Lewis.
+
+### Preview
+![](https://cvlassets.s3.amazonaws.com/Screen%20Shot%202018-04-10%20at%2011.20.22%20AM.png)
